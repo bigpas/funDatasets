@@ -18,7 +18,7 @@ NULL
 #'  \item Name. Name of the pigeon, if any
 #'  \item Color. Color code
 #'  \item Sex. Two levels: "H" (hen, female), and "C" (cock, male)
-#'  \item Ent.
+#'  \item Ent. ???
 #'  \item Arrival. Overall racing time
 #'  \item Speed. Average speed
 #'  \item To Win. Time difference from the winner.
