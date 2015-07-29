@@ -4,7 +4,8 @@
 \name{pigeonsRacing}
 \alias{pigeonsRacing}
 \title{Pigeon Racing}
-\format{\itemize{
+\format{
+\itemize{
  \item Pos. The position at the arrival.
  \item Breeder. Name/nickname of the breader.
  \item Pigeon. Pigeon ID
