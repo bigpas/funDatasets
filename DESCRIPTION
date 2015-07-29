@@ -6,5 +6,5 @@ Date: 2015-07-18
 Author: Pasquale Dente
 Maintainer: Pasquale Dente <p.dente@jacobs-university.de>
 Description: A collection of funny datasets collected by Greg Reda at http://blog.yhathq.com/posts/7-funny-datasets.html
-License: MIT
+License: GPL-3
 LazyData: TRUE
